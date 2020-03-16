@@ -1,0 +1,7 @@
+This project does not have its GUI(hbs,ejs),it runs on postman just to take raw data. Following are some points related to this project:-
+
+1> It follows Crud operation
+2> Very well allocated (directories,files)
+3> Working on server 3000
+4> Does not run on test cases
+5> No security
